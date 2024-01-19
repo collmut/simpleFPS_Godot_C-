@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1705685614
+icon.png::CompressedTexture2D::8203213045162284283::1700255013::1700255481::1::::<><>::
+README.md::TextFile::-1::1700254923::0::1::::<><>::
+::res://footage/::1700256665
+::res://IMPORTS/::1700254155
+::res://IMPORTS/textures/::1700255481
+prototypeTexture1.png::CompressedTexture2D::7952415291939345871::1700254155::1700255481::1::::<><>::
+::res://SCENES/::1700254154
+::res://SCENES/prototype/::1700256310
+Prototype1.tscn::PackedScene::1574735238483724831::1700256310::0::1::::<><>::uid://dlkheanycnk76::::res://IMPORTS/textures/prototypeTexture1.png<>res://SCRIPTS/player/Player.cs<>res://SCRIPTS/player/PlayerInput.cs
+::res://SCRIPTS/::1700254154
+::res://SCRIPTS/player/::1700254154
+Player.cs::CSharpScript::-1::1700254154::0::1::::<>CharacterBody3D<>::
+PlayerInput.cs::CSharpScript::-1::1700254154::0::1::::<>Node<>::
