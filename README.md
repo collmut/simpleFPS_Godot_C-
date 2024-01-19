@@ -3,4 +3,4 @@ This template is in its simplest form and allows beginners to learn the basics o
 Its also suitable for using it as a base to build upon complex first person characters.
 
 <h1>Footage</h1>
-<img src="footage/0001-0250.mp4"/>
+https://github.com/collmut/simpleFPS_Godot_C-/blob/741ffb6ed55eda4723705229baf53985b6dbb1b9/footage/0001-0250.mp4
