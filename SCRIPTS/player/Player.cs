@@ -32,7 +32,7 @@ public partial class Player : CharacterBody3D
 	public override void _PhysicsProcess(double delta)
 	{
 		InterpolateSpeed();
-		ApplyForwardForce();
+		ApplyMovementForces();
 		ApplyGravity();
 		
 		this.MoveAndSlide();
@@ -56,7 +56,7 @@ public partial class Player : CharacterBody3D
 		ZSpeed = Mathf.Lerp(from: ZSpeed , to: TargetZSpeed , weight: 0.05f);
 	}
 	
-	void ApplyForwardForce()
+	void ApplyMovementForces()
 	{
 		Vector3 sideDirection = this.GlobalTransform.Basis.X;
 		Vector3 sideVel = XSpeed * sideDirection;
